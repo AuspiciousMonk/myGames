@@ -1,0 +1,3 @@
+guess a two digit number
+there is no same digits in the number
+you have five chances to guess
